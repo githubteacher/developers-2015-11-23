@@ -3,4 +3,5 @@
 - **Name:** Francesco
 - **Occupation:** HPC specialist, automotive consultant
 - **Location:** Italy
+- **Vaction Spot:** Kyoto
 
