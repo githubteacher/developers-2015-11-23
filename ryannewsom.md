@@ -2,4 +2,4 @@
 
 - **Name:** Ryan Newsom
 - **Occupation:** Android Developer Intern/Student
-= **Location:** Denver, CO
+- **Location:** Denver, CO
