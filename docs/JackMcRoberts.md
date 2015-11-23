@@ -1,5 +1,5 @@
-# Jack McRoberts
+# Jack McRoberts  Biography
 
 - **Name:** Jack McRoberts
 - **Occupation:** Dev Ops Consultant
-- **Location:** Denver
+- **Location:** Denver, CO
