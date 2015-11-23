@@ -2,4 +2,5 @@
 
 - **Name:** Nbessa
 - **Occupation:** Devops Eng.
-- **Location:** Toronto
+- **Location:** Toronto, ON, Canada
+- **Favourite Vacation Spot:** Abidjan
