@@ -2,4 +2,4 @@
 
 - **Name:** Ondine
 - **Occupation:** Technical Writer
-- **Location:** Emeryville
+- **Location:** Emeryville, California, US
