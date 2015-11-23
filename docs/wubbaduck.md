@@ -1,5 +1,5 @@
 #WubbaDuck
 
-- **Name:** Ben
+- **Name:** Ben Veltman
 - **Occupation:** Electronics Engineer
 - **Location:** Michigan
