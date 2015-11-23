@@ -3,3 +3,5 @@
  - **Name:** Mike R Cline
  - **Occupation:** Software Engineer
  - **Location:** Pennsylvania
+ - **Favorite Vacation Spot:** Myrtle Beach
+ - **Favorite Food:** Lasagna
