@@ -1,5 +1,5 @@
 # Nbessa
 
-- Name: Nbessa
-- Occupation: Student
-- Location: Toronto
+- **Name:** Nbessa
+- **Occupation:** Devops Eng.
+- **Location:** Toronto
