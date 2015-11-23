@@ -1,0 +1,3 @@
+- **Name:** izike
+- **Occupation:** student
+- **Location:** Bay Area
