@@ -1,5 +1,5 @@
 # Github Student
 
--**name:** Daniel
--**occupation:**java dev
--**location:**MN
+- **name:** Daniel
+- **occupation:** java dev
+- **location:** Edina, MN
