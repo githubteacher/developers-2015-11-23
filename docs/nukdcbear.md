@@ -1,5 +1,6 @@
 # GitHub nukdcbear User
 
 - **Name:** David Barringer
-- **Occupation:** Consultant
-- **Location:** Cincinnati
+- **Occupation:** DevOps Consultant
+- **Location:** Cincinnati, OH
+- **Favorite Vacation Spot:** Yosemite NP
