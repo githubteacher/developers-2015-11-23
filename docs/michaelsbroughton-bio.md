@@ -1,3 +1,4 @@
 ** Michael's Bio File **
 
-- [ ] blah
+- [ ] Occupation:
+- [ ] Name: 
